@@ -22,4 +22,4 @@ while True:
 
     # get the data and print the different channels
     r, g, b, c = apds.color_data
-    pixels.fill((r, g, b))在这里写上你的代码 :-)
+    pixels.fill((r, g, b))
